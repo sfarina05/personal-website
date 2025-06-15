@@ -1,0 +1,59 @@
+# Journal Articles
+
+- **Farina, S.**, Cattabiani, A., Mandge, D., Shichkova, P., Isbister, J. B., Jacquemier, J., King, J. G., Markram, H., & Keller, D. (2025).  
+  _A multiscale electro-metabolic model of a rat neocortical circuit reveals the impact of ageing on central cortical layers_.  
+  PLOS Computational Biology, 21(5), e1013070.  
+  [Link to Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013070) <!-- Replace with actual article link -->
+
+- **Farina, S.**, Voorsluijs, V., Fixemer, S., Bouvier, D. S., Claus, S., Ellisman, M. H., Bordas, S. P. A., & Skupin, A. (2023).  
+  _Mechanistic multiscale modelling of energy metabolism in human astrocytes reveals the impact of morphology changes in Alzheimer’s Disease_.  
+  *PLOS Computational Biology*, 19(9), e1011464.  
+  [Link to Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011464) <!-- Replace with actual article link -->
+
+- **Farina, S.**, Claus, S., Hale, J. S., Skupin, A., & Bordas, S. P. A. (2021).  
+  _A cut finite element method for spatially resolved energy metabolism models in complex neuro-cell morphologies with minimal remeshing_.  
+  *Advanced Modeling and Simulation in Engineering Sciences*, 8, 1–32.  
+  [Springer](https://link.springer.com/article/10.1186/s40323-021-00191-8) <!-- Replace with actual article link -->
+
+# Preprints
+
+#
+- Papavasileiou, P., **Farina, S.**, Koronaki, E., Boudouvis, A., Bordas, S., & Skupin, A. (2024)  
+  _Machine Learning-based Predictions of Spatial Metabolic Profiles Demonstrate the Impact of Morphology on Astrocytic Energy Metabolism_.  
+  *bioRxiv*.  
+  [Preprint](https://www.biorxiv.org/content/10.1101/2024.09.18.613725v1.abstract) <!-- Replace with actual link -->
+
+
+# Conferences
+
+- **Farina, S.**, Cattabiani, A., Shichkova, P., Mandge, D., Isbister, J., Jacquemier, J., & Keller, D.  
+  _Metabolism and Electrophysiology: Investigating the Crosstalk in a Reconstructed Rat Neocortical Circuit_.  
+ *CNS*, Natal, Brazil. (2024)
+
+- **Farina, S.**, Voorsluijs, A., Bordas, S., & Skupin, A.  
+  _Metabolism and calcium signalling cross-talk in spatially resolved cellular domains_.  
+  *Mathematical Life Sciences*, Bonn, Germany. (2023)
+
+- **Farina, S.**, Voorsluijs, V., Fixemer, S., Bouvier, D., Claus, S., Bordas, S., & Skupin, A.  
+  _3D modelling of a spatially resolved energy metabolism in physiological astrocytic morphology_.  
+  *ECMTB*, Heidelberg, Germany. (2022)
+
+- **Farina, S.**, Voorsluijs, V. E., Claus, S., Skupin, A., & Bordas, S.  
+  _A CutFEM method for mechanistic modelling of astrocytic metabolism in 3D physiological morphologies_.  
+  *ECCOMAS*, Oslo, Norway. (2022)
+
+- **Farina, S.**, Claus, S., Hale, J. S., Komin, N., Skupin, A., & Bordas, S.  
+  _A CutFEM method for a spatially resolved energy metabolism model in complex cellular geometries_.  
+  *WCCM-ECCOMAS*, Paris, France. (2020)
+
+# Invited Talks
+
+
+- **Farina, S.**  
+  _"Researcher Back to School."_  
+  *European School of Luxembourg I* (2023)
+
+- **Farina, S.**  
+  _"A Mechanistic Multiscale Metabolic Model in Human Astrocytes."_  
+  *EMIx Workshop, Simula Lab* (2022)
+

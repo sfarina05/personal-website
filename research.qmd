@@ -1,0 +1,51 @@
+### Neuronal Activity and Energy Use in the Rat Cortex
+
+<div style="display: flex; align-items: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+<div style="flex: 0 0 300px;"> <!-- smaller fixed width for image -->
+<figure style="margin: 0 0 20px 0;">
+<img src="Photo/Fig1A.PNG" alt="Sofia Farina" style="width: 80%; height: auto; border-radius: 8px;" />
+<figcaption style="text-align: center; font-size: 0.9em; color: #555; margin-top: 6px;">
+      [Farina et al. 2025]
+    </figcaption>
+  </figure>
+</div>
+<div style="flex: 1; font-size: 1.2rem; line-height: 1.5;">
+The brain’s high energy demands are supported by a complex interplay between neurons, glial cells, and blood vessels. As we age, this energy delivery system becomes less efficient, which may contribute to cognitive decline.
+
+To investigate this, we developed a computational model of a rat neocortical microcircuit that links neuronal electrical activity with cellular metabolism. Our findings revealed that neurons differ in their energy requirements and that certain brain layers are especially vulnerable to energy deficits during ageing.
+
+This work offers a detailed framework for exploring how energy is used in the neocortex and provides new insights that could inform research on ageing and neurological disorders.
+</div>
+</div>
+
+### Astrocyte Shape and Metabolic Function in Alzheimer’s Disease
+<div style="display: flex; align-items: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+
+  <div style="flex: 1; font-size: 1.2rem; line-height: 1.5;">
+Astrocytes, key support cells in the brain, play a critical role in maintaining neuronal health through metabolic regulation. In neurodegenerative diseases like Alzheimer’s, these cells undergo morphological, structural, and functional changes that impair their performance.
+
+Our research introduces a novel computational model that links astrocyte shape with metabolic activity. By simulating metabolism in both healthy and Alzheimer’s-affected human astrocytes (Video A vs. Video B), we show how spatial architecture directly influences cellular energy dynamics.
+
+These findings offer a new approach to spatially-resolved metabolic modeling and open a promising avenue for understanding the role of astrocytes in neurodegeneration, paving the way for advances in drug discovery, diagnostics, and targeted therapies.
+</div>
+<div style="flex: 0 0 300px;"> <!-- smaller fixed width for image -->
+<figure style="margin: 0 0 20px 0;">
+<video controls style="width: 100%; border-radius: 8px;">
+<source src="Photo/control_astro.mp4" type="video/mp4" />
+</video>
+<figcaption style="text-align: center; font-size: 0.9em; color: #555; margin-top: 6px;">
+      Video A: Healthy Human Astrocyte Metabolism [Farina et al. 2023]
+    </figcaption>
+  </figure>
+<figure style="margin: 0;">
+<video controls style="width: 100%; border-radius: 8px;">
+    <source src="Photo/AD.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+<figcaption style="text-align: center; font-size: 0.9em; color: #555; margin-top: 6px;">
+      Video B: Alzheimer’s Disease Astrocyte Metabolism
+[Farina et al. 2023]    </figcaption>
+  </figure>
+</div>
+
+</div>

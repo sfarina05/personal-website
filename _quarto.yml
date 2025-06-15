@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Sofia Farina"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: education.qmd
+        text: Education
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme:
+      - minty
+    css: styles.css
+    toc: true
+

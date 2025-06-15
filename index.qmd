@@ -1,0 +1,19 @@
+# Exploring the Brain, One Model at a Time
+
+<div style="display: flex; align-items: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+
+  <div style="flex: 1; font-size: 1.2rem; line-height: 1.5;">
+I am **Sofia** and I am a postdoc in the [Cardiovascular Engineering Group](https://www.artorg.unibe.ch/research/cve/index_eng.html) at the ARTORG Center, University of Bern, Switzerland.
+
+My current project is on the brain vasculature under the supervision of [Dr. Franca Schmid](https://franca-schmid.com). My current project aims to simulate blood flow in the entire mouse brain dataset, enhancing understanding of vascular function in both well-studied and understudied brain regions.
+ 
+My prior work includes investigating neuron-glial-vascular coupling from the single-cell level to cortical dynamics using computational simulations.
+
+My research interests lie in computational neuroscience, with a focus on neuro-glia-vascular coupling, brain metabolism, calcium signaling, and neuronal electrophysiology.
+
+</div>
+<div style="flex: 0 0 250px;"> 
+<img src="Photo/sofiafarina.png" alt="Sofia Farina" style="width: 100%; height: auto; border-radius: 50%;" />
+  </div>
+
+</div>

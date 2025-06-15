@@ -1,0 +1,62 @@
+# Get in Touch
+
+Feel free to reach out or connect with the links below.
+
+__Master students__ interested for a Master thesis/internship can check openings on [CVE Website](https://www.artorg.unibe.ch/research/cve/thesis_projects/index_eng.html) or contact me directly.
+
+<style>
+  .side-by-side {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin: 2rem 0;
+  }
+
+  .side-by-side img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .text-block {
+    max-width: 600px;
+  }
+</style>
+
+<div class="side-by-side">
+  <img src="Photo/SMB.jpg" alt="Descriptive alt text">
+
+  <div class="text-block">
+<p>
+  <a href="mailto:sofia.farina@unibe.ch">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="24" style="margin-right:8px; vertical-align:middle;" />
+    email
+  </a>
+</p>
+
+<p>
+  <a href="https://scholar.google.com/citations?user=BdCJMM4AAAAJ&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="24" style="margin-right:8px; vertical-align:middle;" />
+    Google Scholar
+  </a>
+</p>
+
+<p>
+  <a href="https://it.linkedin.com/in/sofia-farina-49209613b" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" style="margin-right:8px; vertical-align:middle;" />
+    LinkedIn
+  </a>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/000000/marker.png" width="24" style="margin-right:8px; vertical-align:middle;" />
+  <strong> Office:</strong><br />
+  ARTORG Center for Biomedical Engineering Research<br />
+  Freiburgstrasse 3<br />
+  3010 Bern<br />
+  Switzerland
+</p>
+  </div>
+</div>
