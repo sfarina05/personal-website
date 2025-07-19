@@ -1,4 +1,5 @@
 # Exploring the Brain, One Model at a Time
+<meta name="google-site-verification" content="eeozBuDU4ysIIed4Vfs3bypnJFkNLuNxoaltGSkQwaw" />
 
 <div style="display: flex; align-items: center; gap: 20px; max-width: 900px; margin: 0 auto;">
 
